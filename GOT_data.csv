@@ -1,0 +1,61 @@
+FirstName,LastName,DateOfBirth,Residence,BirthPlace,NetWorth,TotalDebts
+Eddard,Stark,06/13/263,WINTERFELL,Winterfell,5000,800
+CATELYN,TULLY,04/03/264,Riverrun,Riverrun,4500,600
+Robb,Stark,6-04-283,WINTERFELL,WINTERFELL,3500,500
+Sansa,STARK,"Jun 27, 286",Winterfell,Winterfell,3000,400
+Arya,Stark,"Dec 05, 286",Winterfell,Winterfell,2500,0
+Bran,STARK,26 May 288,Winterfell,Winterfell,2800,300
+RICKON,STARK,11/11/290,WINTERFELL,Winterfell,2000,100
+Jon,Snow,12-02-283,The wall,Winterfell,4000,300
+ROBERT,BARATHEON,"Aug 05, 263",Storm's end,STORMS END,7000,1500
+Joffrey,BARATHEON,"Jun 14, 286",King's landing,King's landing,6000,1200
+TOMMEN,BARATHEON,8-27-290,Kings landing,Kings landing,5500,800
+MYRCELLA,BARATHEON,3-10-290,King's landing,King's landing,5500,800
+Cersei,LANNISTER,"Mar 17, 266",King's landing,KING'S LANDING,15000,2000
+JAIME,LANNISTER,08/06/266,King's landing,KING'S LANDING,15000,2000
+Tyrion,LANNISTER,16 Aug 273,King's landing,King's landing,12000,1000
+TYWIN,Lannister,"Jan 07, 243",Casterly rock,Casterly rock,20000,1000
+LYSA,TULLY,11 Dec 266,The eyrie,Riverrun,3000,400
+Petyr,BAELISH,"Jan 06, 266",King's landing,LILAC'S REST,9000,5000
+VARYS,,07/09/260,KING'S LANDING,ESSOS,8000,2000
+SAMWELL,TARLY,"May 05, 283",The wall,Horn hill,2000,100
+BRIENNE,Of tarth,3-09-280,King's landing,EVENFALL HALL,2500,200
+THEON,Greyjoy,08/18/279,WINTERFELL,Pyke,1500,700
+Davos,Seaworth,26 Feb 260,Dragonstone,Flea bottom,3000,200
+Stannis,Baratheon,5-14-265,Dragonstone,Dragonstone,6000,1500
+Melisandre,,02/28/200,Dragonstone,Asshai,4000,0
+DAENERYS,TARGARYEN,"Jan 14, 284",Meereen,Dragonstone,8000,2000
+Jorah,Mormont,07 Jan 255,Vaes dothrak,Bear island,5000,1000
+OBERYN,Martell,06/07/258,Sunspear,Sunspear,7000,1000
+Margaery,Tyrell,9-11-283,KING'S LANDING,HIGHGARDEN,6000,800
+LORAS,Tyrell,"May 05, 282",King's landing,Highgarden,5500,700
+Shae,,05/10/280,Kings landing,Lorath,1000,200
+YGRITTE,,26 Dec 280,The north,BEYOND THE WALL,500,0
+Gendry,,3-05-284,King's landing,Kings landing,2500,300
+Podrick,Payne,12/17/285,Kings landing,THE WESTERLANDS,1000,100
+Gilly,,"Oct 04, 283",The wall,CRASTER'S KEEP,500,0
+HODOR,,"Sep 23, 270",WINTERFELL,WINTERFELL,800,0
+Meera,Reed,"Sep 10, 283",Greywater watch,Greywater watch,1200,100
+Jaqen,H'GHAR,"Apr 25, 260",BRAAVOS,Lorath,7000,0
+Euron,Greyjoy,11/05/270,PYKE,Pyke,6000,3000
+YARA,Greyjoy,25 Aug 274,Pyke,Pyke,3500,400
+Roose,Bolton,13 Jun 260,DREADFORT,DREADFORT,4500,500
+Ramsay,Snow,24 Jan 280,DREADFORT,DREADFORT,1500,200
+Qyburn,,11-11-250,King's landing,The westerlands,3000,1000
+Daario,NAHARIS,07 Mar 270,Meereen,Tyrosh,4500,500
+MISSANDEI,,5-25-285,MEEREEN,Naath,1000,0
+Grey,WORM,07/05/284,Meereen,Unsullied camp,1200,0
+Barristan,Selmy,"Feb 10, 240",Meereen,King's landing,5000,100
+Maester,Aemon,"Sep 06, 198",The wall,Dragonstone,2000,0
+Mace,TYRELL,07/26/260,Highgarden,Highgarden,10000,1500
+Alliser,THORNE,05/08/260,The wall,Westerlands,1800,200
+Olly,,"Jun 18, 290",The wall,THE GIFT,500,0
+Hizdahr,Zo loraq,07/17/275,MEEREEN,MEEREEN,4000,2000
+Tormund,GIANTSBANE,01 Dec 260,The north,Beyond the wall,3000,500
+Beric,DONDARRION,3-08-270,The riverlands,BLACKHAVEN,2000,400
+THOROS,Of myr,"Jun 26, 250",THE RIVERLANDS,Myr,2500,500
+EDMURE,TULLY,12/27/267,Riverrun,Riverrun,4000,600
+BRYNDEN,Tully,"Mar 28, 250",Riverrun,Riverrun,4500,400
+Lancel,Lannister,23 Jul 271,King's landing,Casterly rock,3000,500
+Kevan,Lannister,11-01-245,Casterly rock,Casterly rock,10000,1200
+TOM,Of sevens,07/27/260,The riverlands,Unknown,1500,100
