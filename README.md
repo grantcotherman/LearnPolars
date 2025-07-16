@@ -7,4 +7,4 @@ A Repository for Polars Study Materials
 - CSV files provide the data for the polars cheat sheet
 
 
-I will continue to update these files as I continue to find out more about polars while I use it for my daily work.
+I will continue to update these files as I learn more about polars while I use it for my daily work.
